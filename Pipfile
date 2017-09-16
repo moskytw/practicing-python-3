@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[requires]
+python_version = "3.6"
+
+[packages]
+numpy = "*"
+scipy = "*"
+sympy = "*"
+matplotlib = "*"
+ipython = "*"
+pandas = "*"
+ipykernel = "*"
+seaborn = "*"
+statsmodels = "*"
