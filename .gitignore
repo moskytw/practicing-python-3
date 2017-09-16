@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+/private_showcases
+/examples/08_libraries_input_output.txt
+/examples/09_libraries_command_line_arguments.txt
