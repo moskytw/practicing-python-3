@@ -1,0 +1,2 @@
+def fa():
+    print('fa')
