@@ -4,13 +4,14 @@ decorator==4.1.2
 ipykernel==4.6.1
 ipython==6.2.0
 ipython-genutils==0.2.0
-jedi==0.10.2
+jedi==0.11.0
 jupyter-client==5.1.0
 jupyter-core==4.3.0
 matplotlib==2.0.2
 mpmath==0.19
 numpy==1.13.1
 pandas==0.20.3
+parso==0.1.0
 patsy==0.4.1
 pexpect==4.2.1
 pickleshare==0.7.4
@@ -24,7 +25,7 @@ pyzmq==16.0.2
 scipy==0.19.1
 seaborn==0.8.1
 simplegeneric==0.8.1
-six==1.10.0
+six==1.11.0
 statsmodels==0.8.0
 sympy==1.1.1
 tornado==4.5.2
