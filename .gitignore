@@ -1,7 +1,14 @@
+#
 .DS_Store
+
+#
 __pycache__/
 .ipynb_checkpoints/
-/v1/examples/output.txt
+
+#
+*.key
 /private_showcases
+
+#
 /examples/08_libraries_input_output.txt
 /examples/09_libraries_command_line_arguments.txt
