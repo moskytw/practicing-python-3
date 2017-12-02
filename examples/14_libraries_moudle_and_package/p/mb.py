@@ -1,2 +1,1 @@
-# relative import
-from .ma import fa
+from p.ma import fa
