@@ -10,5 +10,5 @@ __pycache__/
 /private_showcases
 
 #
-/examples/08_libraries_input_output.txt
-/examples/09_libraries_command_line_arguments.txt
+/handouts/08_libraries_input_output.txt
+/handouts/09_libraries_command_line_arguments.txt
