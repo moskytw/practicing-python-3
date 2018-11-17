@@ -1,6 +1,6 @@
 # Practicing Python 3
 
-It's full materials help you learning Python from zero to intermediate! 🚀
+It's a full material help you learning Python from zero to intermediate! 🚀
 
 I've used it for my 12-hour Python course since 2015. It covers various topics, from the simplest for-loop to the classification in machine learning.
 
