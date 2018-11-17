@@ -4,7 +4,12 @@ Learn Python from zero to intermediate! 🚀
 
 It's the stable version for my 12-hour Python course since 2015. The topics it covers are various, including the for-loop, the visualization, and even the classification in machine learning.
 
-Also check out the full handouts here: https://github.com/moskytw/practicing-python-3 .
+The deck and handouts are here:
+
+* Deck: https://speakerdeck.com/mosky/practicing-python-3
+* Handouts: https://github.com/moskytw/practicing-python-3
+
+Enjoy! 😉
 
 The full outline:
 
@@ -36,5 +41,3 @@ The full outline:
 * Libraries – Module & Package
 * Data Types – Class
 * Checkpoint: Classification
-
-Enjoy! 😉
