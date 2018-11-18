@@ -36,7 +36,7 @@ The full outline:
 * Control Flow – Comprehensions
 * Libraries – Functional Tricks
 * Checkpoint: Calculate Average BMR With Comprehensions
-* Libraries – Import Antigravity
+* Libraries – Import Antigravity (has around 8 notebooks)
 * Checkpoint: Visualization
 * Libraries – Module & Package
 * Data Types – Class
