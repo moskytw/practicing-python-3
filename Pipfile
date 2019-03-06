@@ -1,16 +1,11 @@
 [[source]]
-
-url = "https://pypi.python.org/simple"
+name = "pypi"
+url = "https://pypi.org/simple"
 verify_ssl = true
 
-
-[requires]
-
-python_version = "3.6"
-
+[dev-packages]
 
 [packages]
-
 numpy = "*"
 scipy = "*"
 sympy = "*"
@@ -18,9 +13,12 @@ matplotlib = "*"
 ipython = "*"
 pandas = "*"
 ipykernel = "*"
+flask = "*"
+requests = "*"
+beautifulsoup4 = "*"
 seaborn = "*"
 statsmodels = "*"
-Flask = "*"
 scikit-learn = "*"
-"beautifulsoup4" = "*"
-requests = "*"
+
+[requires]
+python_version = "3.7"
