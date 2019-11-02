@@ -6,19 +6,19 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-numpy = "*"
-scipy = "*"
-sympy = "*"
-matplotlib = "*"
-ipython = "*"
-pandas = "*"
-ipykernel = "*"
-flask = "*"
-requests = "*"
-beautifulsoup4 = "*"
-seaborn = "*"
-statsmodels = "*"
-scikit-learn = "*"
+numpy = "==1.16.2"
+scipy = "==1.2.1"
+sympy = "==1.4"
+matplotlib = "==3.0.3"
+ipython = "==7.4.0"
+pandas = "==0.24.2"
+ipykernel = "==5.1.0"
+seaborn = "==0.9.0"
+statsmodels = "==0.9.0"
+scikit-learn = "==0.20.3"
+flask = "==1.0.2"
+requests = "==2.21.0"
+beautifulsoup4 = "==4.7.1"
 
 [requires]
 python_version = "3.7"
